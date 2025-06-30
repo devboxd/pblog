@@ -1,0 +1,10 @@
+{
+  "description": "Personal blog",
+  "owner": {
+    "username": "devboxd",
+    "email": "abdullah.mertoglu99@gmail.com"
+  },
+  "records": {
+    "URL": "https://amertoglu.blogspot.com"
+  }
+}
